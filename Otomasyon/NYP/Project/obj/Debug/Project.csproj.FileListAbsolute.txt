@@ -1,0 +1,96 @@
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\Project.MusteriForm.resources
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\Project.YoneticiForm.resources
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.exe
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.pdb
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe.config
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.pdb
+C:\Users\ensor\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\Project.Giris.resources
+C:\Users\MUSTAFA\Desktop\Project\Project\bin\Debug\ourProject.exe.config
+C:\Users\MUSTAFA\Desktop\Project\Project\bin\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\Project\Project\bin\Debug\ourProject.pdb
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Project.Giris.resources
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Project.MusteriForm.resources
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Project.YoneticiForm.resources
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\ourProject.pdb
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\obj\Debug\Project.Giris.resources
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\obj\Debug\Project.MusteriForm.resources
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\obj\Debug\Project.YoneticiForm.resources
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\obj\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\obj\Debug\ourProject.pdb
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\bin\Debug\ourProject.exe.config
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\bin\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\Yeni klasör\Project\bin\Debug\ourProject.pdb
+C:\Users\ensor\Desktop\YaklasanSon\Project\bin\Debug\ourProject.exe.config
+C:\Users\ensor\Desktop\YaklasanSon\Project\bin\Debug\ourProject.exe
+C:\Users\ensor\Desktop\YaklasanSon\Project\bin\Debug\ourProject.pdb
+C:\Users\ensor\Desktop\YaklasanSon\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\ensor\Desktop\YaklasanSon\Project\obj\Debug\Project.Giris.resources
+C:\Users\ensor\Desktop\YaklasanSon\Project\obj\Debug\Project.MusteriForm.resources
+C:\Users\ensor\Desktop\YaklasanSon\Project\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\ensor\Desktop\YaklasanSon\Project\obj\Debug\Project.YoneticiForm.resources
+C:\Users\ensor\Desktop\YaklasanSon\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ensor\Desktop\YaklasanSon\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ensor\Desktop\YaklasanSon\Project\obj\Debug\ourProject.exe
+C:\Users\ensor\Desktop\YaklasanSon\Project\obj\Debug\ourProject.pdb
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\bin\Debug\ourProject.exe.config
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\bin\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\bin\Debug\ourProject.pdb
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\obj\Debug\Project.Giris.resources
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\obj\Debug\Project.MusteriForm.resources
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\obj\Debug\Project.YoneticiForm.resources
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\obj\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\YaklasanSon\Project\obj\Debug\ourProject.pdb
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\bin\Debug\ourProject.exe.config
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\bin\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\bin\Debug\ourProject.pdb
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\obj\Debug\Project.Giris.resources
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\obj\Debug\Project.MusteriForm.resources
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\obj\Debug\Project.YoneticiForm.resources
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\obj\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\YaklasanSon\Project\obj\Debug\ourProject.pdb
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\bin\Debug\ourProject.exe.config
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\bin\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\bin\Debug\ourProject.pdb
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.Giris.resources
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.MusteriForm.resources
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.YoneticiForm.resources
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\ourProject.pdb
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\bin\Debug\ourProject.exe.config
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\bin\Debug\ourProject.exe
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\bin\Debug\ourProject.pdb
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.Giris.resources
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.MusteriForm.resources
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.YoneticiForm.resources
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\ourProject.exe
+C:\Users\ensor\Desktop\CommentliProject\YaklasanSon\Project\obj\Debug\ourProject.pdb

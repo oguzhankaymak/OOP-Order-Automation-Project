@@ -1,0 +1,5 @@
+-Projenin yönetici kýsmýna eriþebilmek için Dosyalar dosyasýnýn içindeki yonetici.txt dosyasýný D klasörüne atýnýz.
+
+-Ýsteðe baðlý olarakta (kayýt olmadan müþteri giriþi yapabilmek, ürün eklemeden ürün listesinin 
+oluþmasý ve müþterilerden alýþveriþ yapmadan yönetici kýsmýndaki müþteri takip kýsmýný kontrol etmek 
+için) diðer txt dosyalarýný D klasörüne atabilirsiniz.

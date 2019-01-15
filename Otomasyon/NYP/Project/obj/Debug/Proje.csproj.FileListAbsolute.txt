@@ -1,0 +1,12 @@
+C:\Users\MUSTAFA\Desktop\Project\Project\bin\Debug\ourProject.exe.config
+C:\Users\MUSTAFA\Desktop\Project\Project\bin\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\Project\Project\bin\Debug\ourProject.pdb
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Project.Giris.resources
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Project.MusteriForm.resources
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Project.YoneticiForm.resources
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\Project\Project\obj\Debug\ourProject.pdb

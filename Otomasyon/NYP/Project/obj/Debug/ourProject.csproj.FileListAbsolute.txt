@@ -1,0 +1,66 @@
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\obj\Debug\ourProject.csprojAssemblyReference.cache
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\obj\Debug\ourProject.Giris.resources
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\obj\Debug\ourProject.MusteriView.resources
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\obj\Debug\ourProject.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\obj\Debug\ourProject.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\bin\Debug\ourProject.exe.config
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\bin\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\bin\Debug\ourProject.pdb
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\obj\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject\ourProject\obj\Debug\ourProject.pdb
+C:\Users\ensor\Desktop\ourProject\ourProject\bin\Debug\ourProject.exe.config
+C:\Users\ensor\Desktop\ourProject\ourProject\bin\Debug\ourProject.exe
+C:\Users\ensor\Desktop\ourProject\ourProject\bin\Debug\ourProject.pdb
+C:\Users\ensor\Desktop\ourProject\ourProject\obj\Debug\ourProject.csprojAssemblyReference.cache
+C:\Users\ensor\Desktop\ourProject\ourProject\obj\Debug\ourProject.Giris.resources
+C:\Users\ensor\Desktop\ourProject\ourProject\obj\Debug\ourProject.MusteriView.resources
+C:\Users\ensor\Desktop\ourProject\ourProject\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\ensor\Desktop\ourProject\ourProject\obj\Debug\ourProject.csproj.GenerateResource.cache
+C:\Users\ensor\Desktop\ourProject\ourProject\obj\Debug\ourProject.csproj.CoreCompileInputs.cache
+C:\Users\ensor\Desktop\ourProject\ourProject\obj\Debug\ourProject.exe
+C:\Users\ensor\Desktop\ourProject\ourProject\obj\Debug\ourProject.pdb
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe.config
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.pdb
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csprojAssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.Giris.resources
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.MusteriView.resources
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.exe
+C:\Users\MUSTAFA\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.pdb
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe.config
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.pdb
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csprojAssemblyReference.cache
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.Giris.resources
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.MusteriView.resources
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.pdb
+D:\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe.config
+D:\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe
+D:\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.pdb
+D:\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csprojAssemblyReference.cache
+D:\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.Giris.resources
+D:\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.MusteriView.resources
+D:\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.Properties.Resources.resources
+D:\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csproj.GenerateResource.cache
+D:\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csproj.CoreCompileInputs.cache
+D:\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.exe
+D:\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.pdb
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe.config
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\bin\Debug\ourProject.pdb
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csprojAssemblyReference.cache
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.Giris.resources
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.MusteriView.resources
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.Properties.Resources.resources
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csproj.GenerateResource.cache
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.exe
+C:\Users\Oguzhan\Desktop\NYP PROJECT\ourProject-v.1\ourProject\ourProject\obj\Debug\ourProject.pdb
